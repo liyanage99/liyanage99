@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Liyanage
-- 👀 I’m interested in Prompt Engineering 
+- 👀 I’m interested in Software Engineering 
